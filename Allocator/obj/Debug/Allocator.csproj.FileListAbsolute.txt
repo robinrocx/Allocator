@@ -1,0 +1,9 @@
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Allocator\Allocator\bin\Debug\Allocator.exe.config
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Allocator\Allocator\bin\Debug\Allocator.exe
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Allocator\Allocator\bin\Debug\Allocator.pdb
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Allocator\Allocator\obj\Debug\Allocator.csprojResolveAssemblyReference.cache
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Allocator\Allocator\obj\Debug\Allocator.MainForm.resources
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Allocator\Allocator\obj\Debug\Allocator.Properties.Resources.resources
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Allocator\Allocator\obj\Debug\Allocator.csproj.GenerateResource.Cache
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Allocator\Allocator\obj\Debug\Allocator.exe
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Allocator\Allocator\obj\Debug\Allocator.pdb
